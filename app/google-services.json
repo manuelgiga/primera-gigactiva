@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593487764225",
+    "project_id": "gigactiva-8e5e9",
+    "storage_bucket": "gigactiva-8e5e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593487764225:android:0cac5525d1339e9b8d5900",
+        "android_client_info": {
+          "package_name": "com.giga.gigactiva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593487764225-73tuir1sd5s5et2eu1hb4g6nag1v1rj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLqIfv-USir6DPbhhGvTti7drfc0rr1j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593487764225-73tuir1sd5s5et2eu1hb4g6nag1v1rj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
